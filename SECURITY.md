@@ -2,7 +2,7 @@
 
 Overview
 
-Gexnys is committed to maintaining the security and integrity of the RANSOMWARE Kernel-Level Anti-Cheat Platform.
+Gexnys is committed to maintaining the security and integrity of the BLESSWARE Kernel-Level Anti-Cheat Platform.
 Security issues are handled with priority and discretion.
 
 | Version | Supported          |
@@ -21,7 +21,7 @@ Email: developergokhan@proton.me
 
 # Response Policy
 
-Reports are acknowledged within 72 hours
+Reports are acknowledged within 60 hours
 
 Updates are provided when appropriate
 
