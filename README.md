@@ -1,12 +1,12 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║    ██████╗  █████╗ ███╗   ██╗███████╗ ██████╗ ███╗   ███╗     ║
-║    ██╔══██╗██╔══██╗████╗  ██║██╔════╝██╔═══██╗████╗ ████║     ║
-║    ██████╔╝███████║██╔██╗ ██║███████╗██║   ██║██╔████╔██║     ║
-║    ██╔══██╗██╔══██║██║╚██╗██║╚════██║██║   ██║██║╚██╔╝██║     ║
-║    ██║  ██║██║  ██║██║ ╚████║███████║╚██████╔╝██║ ╚═╝ ██║     ║
-║    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝     ║
+║            ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗                ║
+║            ████╗  ██║██╔═══██╗██║   ██║██╔══██╗               ║
+║            ██╔██╗ ██║██║   ██║██║   ██║███████║               ║
+║            ██║╚██╗██║██║   ██║╚██╗ ██╔╝██╔══██║               ║
+║            ██║ ╚████║╚██████╔╝ ╚████╔╝ ██║  ██║               ║
+║            ╚═╝  ╚═══╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝               ║
 ║                                                               ║
 ║              █     █░ ▄▄▄       ██▀███  ▓█████                ║
 ║             ▓█░ █ ░█░▒████▄    ▓██ ▒ ██▒▓█   ▀                ║
@@ -20,8 +20,9 @@
 ║                                                               ║
 ║                   ANTI-CHEAT SYSTEM v1.0                      ║
 ║        Kernel-Level Protection | ML-Powered Detection         ║
-║                                                               ║
+║                      Machine Learning                         ║
 ╚═══════════════════════════════════════════════════════════════╝
+
 ```
 
 **Next-Generation Kernel-Level Security Platform**
@@ -30,7 +31,7 @@
 
 ## Overview
 
-**RANSOMWARE** is a next-generation security dominance platform designed to operate beyond the limits of conventional software. Built with deep system awareness, it delivers proactive, adaptive, and uncompromising protection at the core of the operating system.
+**NOVAWARE** is a next-generation security dominance platform designed to operate beyond the limits of conventional software. Built with deep system awareness, it delivers proactive, adaptive, and uncompromising protection at the core of the operating system.
 
 This is not a reactive defense tool.
 
@@ -42,7 +43,7 @@ This is absolute system control.
 
 ### Kernel-Level Protection
 
-RANSOMWARE operates directly at the kernel level. This enables threats to be detected and neutralized before they reach user space. The result is low latency, maximum authority, and unmatched resistance against advanced attacks.
+NOVAWARE operates directly at the kernel level. This enables threats to be detected and neutralized before they reach user space. The result is low latency, maximum authority, and unmatched resistance against advanced attacks.
 
 ### Advanced Anti-Cheat System
 
@@ -52,7 +53,7 @@ Interventions are logged, and unauthorized actions are eliminated.
 
 ### Machine Learning–Powered Detection
 
-Powered by the **G-Machine AI model**, RANSOMWARE identifies both known and unknown threats through behavioral analysis without relying on static signatures. The system continuously learns and stays ahead of evolving attack vectors.
+Powered by the **G-Machine AI model**, NOVAWARE identifies both known and unknown threats through behavioral analysis without relying on static signatures. The system continuously learns and stays ahead of evolving attack vectors.
 
 No signatures.
 
@@ -75,7 +76,7 @@ No blind spots.
 
 ## G-AntiCheat Integration
 
-Strengthened by **G-AntiCheat** codebase extensions, RANSOMWARE reaches an entirely new level of enforcement and detection.
+Strengthened by **G-AntiCheat** codebase extensions, NOVAWARE reaches an entirely new level of enforcement and detection.
 
 Through the integration of modular extensions derived from G-AntiCheat core logic, the system gains deeper kernel visibility, faster response cycles, and advanced behavioral authority beyond traditional security layers.
 
@@ -83,7 +84,7 @@ Through the integration of modular extensions derived from G-AntiCheat core logi
 
 ## Release Information
 
-**Release Date:** 10.10.2026
+**Release Date:** 16.11.2026
 
 ---
 
@@ -93,7 +94,7 @@ This software is designed exclusively for game anti-cheat, malware (virus) preve
 
 ---
 
-**RANSOMWARE**
+**NOVAWARE**
 *Not software. A controlled eliminator.*
 
 *The end of malicious software.*
