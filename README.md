@@ -84,7 +84,7 @@ Through the integration of modular extensions derived from G-AntiCheat core logi
 
 ## Release Information
 
-**Release Date:** 16.11.2026
+**Release Date:** 27.07.2027
 
 ---
 
